@@ -10,6 +10,7 @@
 
 ### 🚀 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express)
