@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alfin Yahya Alyashi
 
-💻 A beginner developer who loves learning and building web applications.  
+💻 A junior developer who loves learning and building web applications.  
 🌱 Currently exploring **JavaScript**, **React.js**, **Next.js**, and **Express.js**.  
 🗄️ Interested in working with **MySQL** and **PostgreSQL** for backend projects.  
 
@@ -24,9 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![Alfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyinvyn&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyinvyn&layout=compact&theme=tokyonight)
 
