@@ -15,6 +15,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express)
 
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
